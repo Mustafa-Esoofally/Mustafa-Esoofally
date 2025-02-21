@@ -26,10 +26,10 @@ Let me set the records straight. CR7 is the GOAT and I will not hear otherwise!
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-* 🤖 Hacking on AI and AI Agent projects.
-* 🖥️ Grad Student at FIU studying Computer Science. Graduating in May 2025.
+* 🤖 Hacking on AI and AI Agent projects these days.
+* 🖥️ Worked for 2 startups full-time while in college. Did 1 internship in sophomore year.
 * 🖨️ I write posts on <a href="https://x.com/mustafa_2vec">X</a> on the side.
-* ⚽ Love to play Soccer!
+* ⚽ Love to play Soccer and watch it!
 * 🏖️ Love the beaches of Miami. My absolute favorite:   <a href="https://www.visitlauderdale.com/beaches-and-beyond/beaches/">FLL beach</a>
 * 😄 Pronouns: He/him
 * 🤯 A strange fact about me: I over-analyze everything!
