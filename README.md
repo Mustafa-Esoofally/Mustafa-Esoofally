@@ -26,7 +26,7 @@ Let me set the records straight. CR7 is the GOAT and I will not hear otherwise!
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-* 🤖 Hacking on AI and AI Agent projects these days.
+* 🤖 Hacking on the fastest AI Agents at Agno.
 * 🖥️ Worked for 2 startups full-time while in college. Did 1 internship in sophomore year.
 * 🖨️ I write posts on <a href="https://x.com/mustafa_2vec">X</a> on the side.
 * ⚽ Love to play Soccer and watch it!
