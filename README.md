@@ -1,55 +1,40 @@
-<!--
-**Mustafa-Esoofally/Mustafa-Esoofally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Mustafa 👋
-![](https://komarev.com/ghpvc/?username=Mustafa-Esoofally) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esoofallymustafa/)
-[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmustafa_2vec)](https://x.com/mustafa_2vec)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafa.z.esoofally@gmail.com) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+Blogger)](https://git.io/typing-svg)
+📍 **NYC / SF** | 🤖 **Applied AI engineer** | 🧠 **Getting agents into the hands of normies**
 
+I take an idea from concept to a production-ready agent - custom integrations, memory, the right context and approvals. Previously at **[Agno](https://github.com/agno-agi/agno)**, building how agents reach people. Open to Applied AI and Forward Deployed Engineer roles.
 
-Let me set the records straight. CR7 is the GOAT and I will not hear otherwise! 
+**→ [mustafa-esoofally.github.io](https://mustafa-esoofally.github.io)**
 
-Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-* 🤖 Hacking on the fastest AI Agents at Agno.
-* 🖥️ Worked for 2 startups full-time while in college. Did 1 internship in sophomore year.
-* 🖨️ I write posts on <a href="https://x.com/mustafa_2vec">X</a> on the side.
-* ⚽ Love to play Soccer and watch it!
-* 🏖️ Love the beaches of Miami. My absolute favorite:   <a href="https://www.visitlauderdale.com/beaches-and-beyond/beaches/">FLL beach</a>
-* 😄 Pronouns: He/him
-* 🤯 A strange fact about me: I over-analyze everything!
+## Start Here
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
-</p>
+- 🔭 **[Scout](https://github.com/agno-agi/scout)** - company knowledge agent that navigates Slack, Drive, wiki and CRM instead of chunk-and-embed
+- 📊 **[Dash](https://github.com/agno-agi/dash)** - self-learning data agent: plain English in, grounded SQL out
+- 🧑‍💻 **[Coda](https://github.com/agno-agi/coda)** - code companion that lives in Slack and works from isolated branches
+- 🧠 **[Pal](https://mustafa-esoofally.github.io/projects/pal/)** - personal agent that learns how you work, run after run
+- 🚀 **[AgentOS templates](https://mustafa-esoofally.github.io/projects/agentos-templates/)** - a production agent platform in your own cloud on Railway, AWS or Docker
 
+## Built at Agno
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mustafa-Esoofally&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Esoofally&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Esoofally&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 💬 **[Agents where people work](https://mustafa-esoofally.github.io/work/chat-interfaces/)** - Slack, Telegram and WhatsApp interfaces with streaming replies and media
+- ✋ **[Human-in-the-loop](https://mustafa-esoofally.github.io/work/human-in-the-loop/)** - agents pause, people approve, in Slack and web frontends
+- 🗜️ **[Context engineering](https://mustafa-esoofally.github.io/work/context-engineering/)** - context compression, tool-history filtering, token counting, context providers
+- 🧬 **[Learning machines](https://mustafa-esoofally.github.io/work/learning-machines/)** - memory that gets better every run, for agents and teams
+- 🔐 **[Access control](https://mustafa-esoofally.github.io/work/security/)** - per-user isolation, scopes and RBAC down to the tool level
+- 🔌 **[MCP and integrations](https://mustafa-esoofally.github.io/work/mcp-and-tools/)** - MCP, Google Workspace, Excel knowledge bases
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mustafa-Esoofally&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Client Work
 
----
-[![](https://visitcount.itsvg.in/api?id=Mustafa-Esoofally&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🏢 **[Fortune 10 company](https://mustafa-esoofally.github.io/projects/fortune-10-enterprise/)** - onboarding, custom workflows, reliability and memory
+- 📚 **[Knowledge assistant](https://mustafa-esoofally.github.io/projects/policy-assistant/)** - multi-agent RAG over handbooks for an asset manager, an accounting firm and a law firm
+- 📦 **[Procurement intelligence](https://mustafa-esoofally.github.io/projects/procurement-intelligence/)** - seven research agents behind every sourcing decision, live
+- 🚢 **[Logistics documents](https://mustafa-esoofally.github.io/projects/logistics-document-agents/)** - agents that read, check and route shipping paperwork
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Now
+
+- 🟢 **[Open Dots](https://mustafa-esoofally.github.io/projects/open-dots/)** - an open-source personal agent you text; asks before it acts
+- 🪟 **[Open Glass](https://mustafa-esoofally.github.io/projects/open-glass/)** - a company-wide AI workspace with memory people can trust
+
+[Website](https://mustafa-esoofally.github.io) · [LinkedIn](https://www.linkedin.com/in/esoofallymustafa) · [X](https://x.com/mustafa_2vec)
