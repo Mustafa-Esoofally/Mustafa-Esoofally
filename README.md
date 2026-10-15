@@ -30,7 +30,7 @@ I take an idea from concept to a production-ready agent - custom integrations, m
 - 🔐 **[Access control](https://mustafa-esoofally.github.io/work/security/)** - per-user isolation, scopes and RBAC down to the tool level
 - 🔌 **[MCP and integrations](https://mustafa-esoofally.github.io/work/mcp-and-tools/)** - MCP, Google Workspace, Excel knowledge bases
 
-## Client Work
+## Production Systems
 
 - 🏢 **[Fortune 10 company](https://mustafa-esoofally.github.io/projects/fortune-10-enterprise/)** - onboarding, custom workflows, reliability and memory
 - 📚 **[Knowledge assistant](https://mustafa-esoofally.github.io/projects/policy-assistant/)** - multi-agent RAG over handbooks for an asset manager, an accounting firm and a law firm
