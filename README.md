@@ -8,7 +8,7 @@ I take an idea from concept to a production-ready agent - custom integrations, m
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-## Start Here
+## Product Apps
 
 - 🔭 **[Scout](https://github.com/agno-agi/scout)** - company knowledge agent that navigates Slack, Drive, wiki and CRM instead of chunk-and-embed
 - 📊 **[Dash](https://github.com/agno-agi/dash)** - self-learning data agent: plain English in, grounded SQL out
