@@ -32,7 +32,7 @@ I take an idea from concept to a production-ready agent - custom integrations, m
 
 ## Production Systems
 
-- 🏢 **[Fortune 10 company](https://mustafa-esoofally.github.io/projects/fortune-10-enterprise/)** - onboarding, custom workflows, reliability and memory
+- 🏢 **[Fortune 10 company](https://mustafa-esoofally.github.io/projects/fortune-10-enterprise/)** - onboarding, custom workflows, and a better Excel reader and data access for sharper answers from their internal chatbots
 - 📚 **[Knowledge assistant](https://mustafa-esoofally.github.io/projects/policy-assistant/)** - multi-agent RAG over handbooks for an asset manager, an accounting firm and a law firm
 - 📦 **[Procurement intelligence](https://mustafa-esoofally.github.io/projects/procurement-intelligence/)** - seven research agents behind every sourcing decision, live
 - 🚢 **[Logistics documents](https://mustafa-esoofally.github.io/projects/logistics-document-agents/)** - agents that read, check and route shipping paperwork
