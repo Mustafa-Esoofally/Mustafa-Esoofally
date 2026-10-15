@@ -35,7 +35,7 @@ I take an idea from concept to a production-ready agent - custom integrations, m
 - 🏢 **[Fortune 10 company](https://mustafa-esoofally.github.io/projects/fortune-10-enterprise/)** - onboarding, custom workflows, and a better Excel reader and data access for sharper answers from their internal chatbots
 - 📚 **[Knowledge assistant](https://mustafa-esoofally.github.io/projects/policy-assistant/)** - multi-agent RAG over handbooks for an asset manager, an accounting firm and a law firm, scaled to large document sets with better reranking and more databases
 - 📦 **[Procurement intelligence](https://mustafa-esoofally.github.io/projects/procurement-intelligence/)** - seven research agents that reason through each sourcing decision, write the report from the team's template and email it out on their own
-- 🚢 **[Logistics documents](https://mustafa-esoofally.github.io/projects/logistics-document-agents/)** - agents that read, check and route shipping paperwork
+- 🚢 **[Logistics documents](https://mustafa-esoofally.github.io/projects/logistics-document-agents/)** - document intelligence with a mixture of specialist agents - far more accurate reads of shipping paperwork, and tedious internal processes automated
 - 🧾 **[Finance and supplier agents](https://mustafa-esoofally.github.io/projects/beverage-finance-agents/)** - finance and research agents, plus browser agents that log into old government websites, pull the PDFs and summarize them
 
 ## Now
