@@ -10,10 +10,7 @@ I take an idea from concept to a production-ready agent - custom integrations, m
 
 ## Product Apps
 
-- 🧬 **[Learning Machines](https://mustafa-esoofally.github.io/work/learning-machines/)** - owned Agno's learning layer. Turn on `learning=True` and an agent remembers users and gets better every run
-  - **Six stores:** user profile, user memory, session context, entity memory, learned knowledge and a decision log - each recalls into context before a run and learns after it
-  - **Three modes:** Always (extracts in parallel with the model call), Agentic (the agent decides what to save), Propose (asks before saving)
-  - **Scoped:** per user, per team namespace or shared globally - for single agents and teams
+- 🧬 **[Learning Machines](https://mustafa-esoofally.github.io/work/learning-machines/)** - owned Agno's learning layer. Agents that learn, not just remember: who you are, what you're working on and what worked last time, so the 1,000th conversation is better than the first
 - 🔭 **[Scout](https://github.com/agno-agi/scout)** - company knowledge agent that navigates Slack, Drive, wiki and CRM instead of chunk-and-embed
 - 📊 **[Dash](https://github.com/agno-agi/dash)** - self-learning data agent: plain English in, grounded SQL out
 - 🧑‍💻 **[Coda](https://github.com/agno-agi/coda)** - code companion that lives in Slack and works from isolated branches
