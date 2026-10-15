@@ -2,7 +2,7 @@
 
 📍 **NYC / SF** | 🤖 **Applied AI engineer** | 🧠 **Getting agents into the hands of normies**
 
-I take an idea from concept to a production-ready agent - custom integrations, memory, the right context and approvals. Previously at **[Agno](https://github.com/agno-agi/agno)**, building how agents reach people. Open to Applied AI and Forward Deployed Engineer roles.
+I take an idea from concept to a production-ready agent - custom integrations, memory, the right context and approvals. Previously at **[Agno](https://github.com/agno-agi/agno)**, building how agents reach people. Always down to chat - hiring, exploring or building something together.
 
 **→ [mustafa-esoofally.github.io](https://mustafa-esoofally.github.io)**
 
