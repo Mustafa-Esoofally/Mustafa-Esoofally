@@ -10,6 +10,7 @@ I take an idea from concept to a production-ready agent - custom integrations, m
 
 ## Product Apps
 
+- 🧬 **[Learning Machines](https://mustafa-esoofally.github.io/work/learning-machines/)** - owned Agno's learning layer: agents and teams that remember users, sessions and decisions, and get better every run
 - 🔭 **[Scout](https://github.com/agno-agi/scout)** - company knowledge agent that navigates Slack, Drive, wiki and CRM instead of chunk-and-embed
 - 📊 **[Dash](https://github.com/agno-agi/dash)** - self-learning data agent: plain English in, grounded SQL out
 - 🧑‍💻 **[Coda](https://github.com/agno-agi/coda)** - code companion that lives in Slack and works from isolated branches
@@ -21,7 +22,6 @@ I take an idea from concept to a production-ready agent - custom integrations, m
 - 💬 **[Agents where people work](https://mustafa-esoofally.github.io/work/chat-interfaces/)** - Slack, Telegram and WhatsApp interfaces with streaming replies and media
 - ✋ **[Human-in-the-loop](https://mustafa-esoofally.github.io/work/human-in-the-loop/)** - agents pause, people approve, in Slack and web frontends
 - 🗜️ **[Context engineering](https://mustafa-esoofally.github.io/work/context-engineering/)** - context compression, tool-history filtering, token counting, context providers
-- 🧬 **[Learning machines](https://mustafa-esoofally.github.io/work/learning-machines/)** - memory that gets better every run, for agents and teams
 - 🔐 **[Access control](https://mustafa-esoofally.github.io/work/security/)** - per-user isolation, scopes and RBAC down to the tool level
 - 🔌 **[MCP and integrations](https://mustafa-esoofally.github.io/work/mcp-and-tools/)** - MCP, Google Workspace, Excel knowledge bases
 
