@@ -36,6 +36,7 @@ I take an idea from concept to a production-ready agent - custom integrations, m
 - 📚 **[Knowledge assistant](https://mustafa-esoofally.github.io/projects/policy-assistant/)** - multi-agent RAG over handbooks for an asset manager, an accounting firm and a law firm
 - 📦 **[Procurement intelligence](https://mustafa-esoofally.github.io/projects/procurement-intelligence/)** - seven research agents behind every sourcing decision, live
 - 🚢 **[Logistics documents](https://mustafa-esoofally.github.io/projects/logistics-document-agents/)** - agents that read, check and route shipping paperwork
+- 🧾 **[Finance and supplier agents](https://mustafa-esoofally.github.io/projects/beverage-finance-agents/)** - finance and research agents, plus browser agents that log into old government websites, pull the PDFs and summarize them
 
 ## Now
 
